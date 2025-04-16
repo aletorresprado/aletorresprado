@@ -1,37 +1,37 @@
-# 👋 ¡Hola! Soy Alejandro Torres Prado
+# 👋 Hi there! I'm Alejandro Torres Prado
 
-🎓 Lic. en Diseño Gráfico | 🧪 Técnico Profesional en CONICET  
-🧬 Trabajo con microscopía electrónica y diagnóstico por imágenes  
-💻 Interesado en bioinformática, inteligencia artificial y desarrollo web
+🎓 Bachelor in Graphic Design | 🧪 Professional Technician at CONICET  
+🧬 I work with electron microscopy and image-based diagnostics  
+💻 Interested in bioinformatics, artificial intelligence, and web development
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I use
 
-- Python (bioinformática, IA, procesamiento de imágenes)
+- Python (bioinformatics, AI, image processing)
 - HTML / CSS / JavaScript
-- React.js, Figma (interfaces modernas)
-- Electron.js (apps de escritorio)
+- React.js, Figma (modern interfaces)
+- Electron.js (desktop apps)
 - Git / GitHub
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 🧠 Currently learning
 
-- Desarrollo de apps científicas (web + escritorio)
-- Machine Learning y Deep Learning para diagnóstico médico
-
----
-
-## 🔍 Proyectos en los que trabajo
-
-- 🔬 Entrenamiento de IA con imágenes de patologías renales  
-- 🧪 Procesamiento de muestras en microscopía electrónica  
-- 🧰 Herramientas de software para análisis científico
+- Development of scientific apps (web + desktop)
+- Machine Learning and Deep Learning for medical diagnostics
 
 ---
 
-## 📫 Cómo contactarme
+## 🔍 Projects I'm working on
+
+- 🔬 AI training with renal pathology images  
+- 🧪 Sample processing in electron microscopy  
+- 🧰 Software tools for scientific analysis
+
+---
+
+## 📫 How to reach me
 
 - ✉️ [aletorresprado@live.com](mailto:aletorresprado@live.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-torres-prado)
@@ -39,4 +39,4 @@
 
 ---
 
-> “La ciencia no es sólo una disciplina de razón, sino también de romanticismo” – Stephen Hawking
+> "Science is not only a discipline of reason, but, also, one of romance." – Stephen Hawking
