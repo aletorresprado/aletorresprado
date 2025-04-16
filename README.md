@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Torres Prado
 
-🎓 Lic. en Diseño Gráfico | 🧪 Investigador en CONICET  
+🎓 Lic. en Diseño Gráfico | 🧪 Técnico Profesional en CONICET  
 🧬 Trabajo con microscopía electrónica y diagnóstico por imágenes  
 💻 Interesado en bioinformática, inteligencia artificial y desarrollo web
 
