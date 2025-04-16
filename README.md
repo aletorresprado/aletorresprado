@@ -33,7 +33,7 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ [TuEmail@dominio.com](mailto:aletorresprado@live.com)
+- ✉️ [aletorresprado@live.com](mailto:aletorresprado@live.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-torres-prado)
 - 🧠 [ORCID](https://orcid.org/0009-0004-9084-0771)
 
