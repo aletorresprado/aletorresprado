@@ -1,4 +1,6 @@
-# 🎨🧬 Designer, microscopist & code crafter – I'm Alejandro Torres Prado
+# 🎨🧬 Designer, 
+microscopist & code crafter 
+I'm Alejandro Torres Prado
 
 
 🎓 Bachelor in Graphic Design | 🧪 Professional Technician at CONICET  
