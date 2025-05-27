@@ -1,6 +1,6 @@
 # 🎨🧬 Designer, microscopist & code crafter – I'm Alejandro Torres Prado
 
-
+![Hola Mundo!](https://github.com/aletorresprado/aletorresprado/blob/main/io_ia_github.png)
 🎓 Bachelor in Graphic Design | 🧪 Professional Technician at CONICET  
 🧬 I work with electron microscopy and image-based diagnostics  
 💻 Interested in bioinformatics, artificial intelligence, and web development
