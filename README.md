@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Alejandro Torres Prado
+# 🎨🧬 Designer, microscopist & code crafter – I'm Alejandro Torres Prado.
+
 
 🎓 Bachelor in Graphic Design | 🧪 Professional Technician at CONICET  
 🧬 I work with electron microscopy and image-based diagnostics  
