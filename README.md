@@ -63,7 +63,7 @@
 > "Science is not only a discipline of reason, but, also, one of romance." – Stephen Hawking
 
 ### 📊 Estadísticas de GitHub
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=aletorresprado&show_icons=true&theme=dark)
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=aletorresprado&show_icons=true&theme=onedark)
 
 ### 📚 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletorresprado&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletorresprado&layout=compact&theme=onedark)
