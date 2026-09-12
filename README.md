@@ -104,6 +104,7 @@ I'm also exploring computational tools for structural biology and microscopy, in
 
 ## 📫 Connect with me
 
+🌎 **Web:** [Mi Sitio Web](https://www.alejandrotorres.ar)
 ✉️ **Email:** [aletorresprado@live.com](mailto:aletorresprado@live.com)  
 🌐 **LinkedIn:** [Alejandro Torres Prado](https://www.linkedin.com/in/alejandro-torres-prado)  
 🧬 **ORCID:** [0009-0004-9084-0771](https://orcid.org/0009-0004-9084-0771)
